@@ -19,7 +19,7 @@ public class infixToPostfix {
             while (readFile.hasNext()) { // loop through each line in the file
                 String line = readFile.nextLine();
                 if (isValidInfix(line)) {
-                    System.out.println("Valid" + "\n" + conversion(line).toString().trim());
+                    System.out.println("Valid + \n" + conversion(line).toString().trim());
                 } else {
                     System.out.println("Not-Valid");
                 }
