@@ -9,41 +9,41 @@ Run the program and input the file path into the terminal and run the program:
 Example output with input1.csv as testcase:
 input1.csv
 Valid
-5(+ 3 * 2( - 8( / 4
+53+284/-*
 Valid
-7((+ 6 * 5( - 2 / 4( + 1
+76+52-*41+/
 Valid
-15- 3(( * 8 / 2( + 2
+1538*22+/-
 Valid
-9(+ 3( - 1 * 4 / 6( - 2
+931-4*+62-/
 Valid
-12(/ 4( + 2 + 6(( - 3 * 2
+1242+/63-2*+
 Valid
-18- 6(( + 2 * 3 + 5( * 2
+1862+3*-52*+
 Valid
-5(* 7( - 3 + 2 / 8( - 4
+573-*2+84-/
 Valid
-24(/ 4( + 2 * 3( + 1 - 7
+2442+/31+*7-
 Valid
-5((+ 2 * 8( - 3 / 9( / 3
+52+83-*93//
 Valid
-20(/ 2( * 5 + 7(( - 3 * 2
+2025*/73-2*+
 Valid
-9(* 3 - 6(( / 2 + 4( * 2
+93*62/42*+-
 Valid
-30(/ 6( - 2 * 5(( + 1 / 2
+3062-/51+2/*
 Valid
-16((- 4 / 8( / 2 + 3( * 5
+164-82//35*+
 Valid
-2(* 3( + 4 - 5 / 5( / 5
+234+*5-55//
 Valid
-14((+ 6 / 2( + 2 * 3( - 1
+146+22+/31-*
 Valid
-25(/ 5( + 5 * 2 + 9( - 4
+2555+/2*94-+
 Valid
-8(* 4( - 2 / 2(( + 3 * 2
+842-*23+2*/
 Valid
-10((- 3 * 6( / 2 + 4( * 5
+103-62/*45*+
 Not-Valid
 Not-Valid
 Not-Valid
@@ -55,4 +55,4 @@ Not-Valid
 Not-Valid
 Not-Valid
 Not-Valid
-Not-Valid
+Not-Vali
