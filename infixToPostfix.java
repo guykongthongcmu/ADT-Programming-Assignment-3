@@ -87,7 +87,7 @@ public class infixToPostfix {
                     output.append(ll.pop()); // pop until stack is left with left parenthesis
                 }
                 ll.pop(); // get rid of '('
-            } else { // for operators
+            } else if (isOperator(c)) { // for operators
                 while (!ll.isEmpty() && precedence(c) <= precedence(ll.peek()) && isLeftAssociative(c)) {
                     output.append(ll.pop());
                 }
